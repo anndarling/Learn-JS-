@@ -1,0 +1,25 @@
+<html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8".
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport"content="width=device-width">
+    <link rel="stylesheet" href="styles/main.css">
+</head>   
+
+<body>
+<script>
+    alert();
+    </script>
+    
+    <div class="container">
+        <div>
+    <h1>Learning Javascript</h1>
+        <h2>One Painful experience at a time</h2>
+        <p class="lead">...we work for art and glory</p>
+         </div>
+    </div>
+
+</body>
+</html>
